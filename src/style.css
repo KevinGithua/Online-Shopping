@@ -15,7 +15,7 @@ span{
 .navbar {
     display: flex;
     flex-direction: row;
-    color: white;
+    color: green;
     padding: 25px 60px;
     justify-content: space-between;
     align-items: center;
@@ -44,7 +44,7 @@ span{
     display: grid;
     grid-template-columns: repeat(5, 223px);
     gap: 30px;
-    justify-content: center;
+    justify-content: left;
 }
 @media (max-width: 1000px) {
     .shop {
