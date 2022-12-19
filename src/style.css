@@ -5,12 +5,12 @@
 }
 body {
     font-family: sans-serif;
-    background-color: green;
+    background-color: purple;
     color: white;
     padding-bottom: 30px;
 }
 span{
-    color: lightgreen;
+    color: red;
 }
 .navbar {
     display: flex;
